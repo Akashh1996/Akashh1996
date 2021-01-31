@@ -16,7 +16,7 @@ const AboutMe = {
 }
 
 AboutMe.goal = "Learn more to master my skills and become a better developer",
-AboutMe.intrests: ["Sports", "music", "trave", "yoga"]
+AboutMe.intrests = ["Sports", "music", "trave", "yoga"]
 ```
 
 ### Connect with me:
