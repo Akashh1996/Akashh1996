@@ -20,7 +20,7 @@ AboutMe.intrests = ["Sports", "music", "travel", "yoga"]
 ```
 
 ### Connect with me:
-[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/akash-sapkota-front-end-developer/) /  akashh.sapkota@gmail.com
+[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/akash-sapkota-front-end-developer/)/  akashh.sapkota@gmail.com
 
 ### Languages and Tools:
 
